@@ -1,0 +1,6 @@
+.gl_select 
+{
+	border: 0px solid #ccc;
+	z-index:9999;
+	overflow:hidden;
+}
